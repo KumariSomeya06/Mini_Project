@@ -4,7 +4,7 @@ eW-SMS is online platforms to provide our customers services at it best. We focu
 ![Project](https://user-images.githubusercontent.com/70771224/103096904-81ca7800-462b-11eb-8f37-efa7da17912b.png)
 
 The Registration Page.
-![Registration (2)](https://user-images.githubusercontent.com/70771224/103101531-18a03000-463e-11eb-8bad-5a4dee6e31b6.png)
+![Registration (3)](https://user-images.githubusercontent.com/70771224/103101729-04106780-463f-11eb-8ca9-4a1323954230.png)
 
 The Login Page.
 ![login (2)](https://user-images.githubusercontent.com/70771224/103101555-3372a480-463e-11eb-8c93-f44d9ceb6c90.png)
